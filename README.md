@@ -1,9 +1,19 @@
-# Eventually
+# Third Bracket
 
-Eventually is a one page, responsive pre-launching site template. It is a port of [HTML5 UP's Eventually Template](https://html5up.net/eventually).
+BUILD . INTEGRATE . EXPLORE
 
-## License
+THIRDBRACKET.CO.UK is a uk based digital solution company which provides all kinds of digital solution including 
+1. Website Design Services
+2. Website Development Services
+3. Ecommerce Websites
+4. Business Website Development
+5. Enterprise Level Web Solutions
+6. Custom Software Development
+7. Custom Web CRM Development
+8. Custom Web CMS Development
+9. Custom Web App Development
 
-This theme is released under the CC BY 3.0 license. For more information, read the [License](https://github.com/sagarmusabbir/Eventually/blob/master/LICENSE.md).
+[Official Website](www.thirdbracket.co.uk)
+
 
 
