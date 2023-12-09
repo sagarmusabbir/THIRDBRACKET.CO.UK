@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Third Bracket'
+theme = 'eventually'
+
+
+[params]
+pagetitle = 'THIRDBRACKET.CO.UK'
+description1 = 'BUILD . INTEGRATE . EXPLORE'
+description2 = 'Let Us Help You Create Your First Business Website'
+twitter = 'https://twitter.com/MusabbirSagar'
+instagram = 'https://instagram.com/#'
+github = 'https://github.com/sagarmusabbir'
+email = 'mailto:sagarmusabbir@gmail.com'
