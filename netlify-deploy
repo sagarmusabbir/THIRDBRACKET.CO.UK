@@ -1,0 +1,44 @@
+Admin URL: https://app.netlify.com/sites/THIRDBRACKET-HUGO
+URL:       https://THIRDBRACKET-HUGO.netlify.app
+Site ID:   add81cd2-1763-424d-b743-984d6b729367
+
+Linked to thirdbracket-hugo
+Please provide a publish directory (e.g. "public" or "dist" or "."):
+? Publish directory /home/musabbir/Documents/GitHub/HUGO1/THIRDBRACKET.CO.UK/public
+
+
+Deploy path: /home/musabbir/Documents/GitHub/HUGO1/THIRDBRACKET.CO.UK/public
+Deploying to main site URL...
+⠋ Uploading blobs to deploy store...
+⠋ Hashing files...
+Netlify Build                                                 
+────────────────────────────────────────────────────────────────
+
+❯ Version
+  @netlify/build 29.31.0
+
+❯ Flags
+  deployId: 6574e8205d23532e5ce34cb5
+  open: false
+  prod: true
+  prodIfUnlocked: false
+  skipFunctionsCache: false
+
+❯ Current directory
+  /home/musabbir/Documents/GitHub/HUGO1/THIRDBRACKET.CO.UK
+
+❯ Config file
+  No config file was defined: using default values.
+
+❯ Context
+✔ Finished uploading blobs to deploy store
+✔ Finished hashing 
+✔ CDN requesting 13 files
+✔ Finished uploading 14 assets
+✔ Deploy is live!
+
+Build logs:        https://app.netlify.com/sites/thirdbracket-hugo/deploys/6574e8205d23532e5ce34cb5
+Function logs:     https://app.netlify.com/sites/thirdbracket-hugo/functions
+Unique deploy URL: https://6574e8205d23532e5ce34cb5--thirdbracket-hugo.netlify.app
+Website URL:       https://thirdbracket-hugo.netlify.app
+musabbir@third-Bracket:~/Documents/GitHub/HUGO1/THIRDBRACKET.CO.UK$ 
